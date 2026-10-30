@@ -1,0 +1,6 @@
+{
+  "name": "Pigeon Courier — Northern Province Express Logistics",
+  "description": "Express parcel tracking, inter-district linehaul dispatch, and customer/admin logistics portal engineered for the Northern Province of Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
